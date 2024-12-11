@@ -17,8 +17,8 @@
 4. [Use Case 검토](#use-case-검토)
 5. [See more](#see-more)
 
-## 개요 
 
+## 개요 
 ### 기획 목적
 
 ### 기술 스택
@@ -37,7 +37,6 @@
 |이가연</br>[@its-gayeon](https://github.com/its-gayeon)|프론트엔드 개발|
 
 
-
 ## 주요 기능
 
 ### 그림 그리기
@@ -52,7 +51,7 @@
 
 
 ## 아키텍처 디자인
-
+![arch](https://github.com/user-attachments/assets/9a87b65b-6e64-49eb-80aa-2e1fad3edf9a)
 
 
 ## Use Case 검토
