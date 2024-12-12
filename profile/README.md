@@ -32,7 +32,7 @@
 - BE: Django
 - DB: SQLite3
 - VCS: git
-- Documentation: Github, Mermaid-JS
+- Documentation: Github
 
 ### 역할 배분
 | 이름 | 역할 | 
