@@ -2,6 +2,10 @@
 
 **2024-2 서강대학교 커넥티드플랫폼 이론과 실제 (CSE4103) 6팀**
 
+## 발표자료
+[aquabyme.pdf](https://github.com/user-attachments/files/18159376/aquabyme.pdf)
+
+
 ## 목차
 1. [개요](#개요)
     - [기획 목적](#기획-목적)
